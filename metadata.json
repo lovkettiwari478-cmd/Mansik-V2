@@ -1,0 +1,7 @@
+{
+  "name": "MANISK",
+  "description": "MANISK — Personal AI Operating System. Understands, plans, acts, verifies, and adapts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
